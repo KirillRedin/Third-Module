@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracticeRedin.iml" filepath="$PROJECT_DIR$/PracticeRedin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifth/fifth.iml" filepath="$PROJECT_DIR$/fifth/fifth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first/First.iml" filepath="$PROJECT_DIR$/first/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourth/fourth.iml" filepath="$PROJECT_DIR$/fourth/fourth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second/Second.iml" filepath="$PROJECT_DIR$/second/Second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third/third.iml" filepath="$PROJECT_DIR$/third/third.iml" />
+    </modules>
+  </component>
+</project>

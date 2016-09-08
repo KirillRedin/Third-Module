@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="action_settings">Settings</string>
+    <string name="aValue">Валюта А</string>
+    <string name="bValue">Валюта B</string>
+    <string name="clearButton">Clear</string>
+    <string name="convert">Convert</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/textview"
+        android:id="@+id/addTextView"/>
+    <item
+        android:title="@string/button"
+        android:id="@+id/addButton"/>
+    <item
+        android:title="@string/edittext"
+        android:id="@+id/addEditText"/>
+</menu>

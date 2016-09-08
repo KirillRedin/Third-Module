@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticeRedin</string>
+    <string name="action_settings">Settings</string>
+    <string name="invalidEmail">Email is invalid \n</string>
+    <string name="invalidPhone">Phone number is invalid</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="getInfo">Get Information</string>
+</resources>

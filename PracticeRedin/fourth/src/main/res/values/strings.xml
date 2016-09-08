@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fourth</string>
+    <string name="action_settings">Settings</string>
+    <string name="increase">increase</string>
+    <string name="decrease">decrease</string>
+    <string name="sometext">SomeText</string>
+    <string-array name = "colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>

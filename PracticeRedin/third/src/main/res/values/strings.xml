@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Third</string>
+    <string name="textview">Додати TextView</string>
+    <string name="button">Додати Button</string>
+    <string name="edittext">Додати EditText</string>
+    <string name="text">Text </string>
+</resources>
